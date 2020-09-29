@@ -1,4 +1,3 @@
 Lorem ipsum
 Modification du fichier readme
-
-évolution de la branche dévelopemment
+Evolution de la branche dévelopemment
